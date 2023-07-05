@@ -1,2 +1,2 @@
 # amemorie.github.io
-Personal webpage
+Personal webpage. Currently displays CV as a pdf file.
